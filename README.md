@@ -3,7 +3,7 @@ The Movie Data Base App
 
 Overview
 --------------
-An app that consumes a REST API from http://api.themoviedb.org/3/ and displays the results on the UI.
+An app that consumes a REST API from https://api.themoviedb.org/3/ and displays the results on the UI.
 
 The HomeFragment uses a recyclerView to display a list of popular movies. 
 
