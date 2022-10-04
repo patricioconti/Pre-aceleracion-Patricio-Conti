@@ -13,7 +13,7 @@ object LiveDataTestUtil {
      */
 
     @Throws(InterruptedException::class)
-   fun <T> getValue(liveData: LiveData<T>): T? {
+    fun <T> getValue(liveData: LiveData<T>): T? {
         val data = arrayOfNulls<Any>(1)
         val latch = CountDownLatch(1)
         val observer = object : Observer<T> {

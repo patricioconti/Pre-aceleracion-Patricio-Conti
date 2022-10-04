@@ -1,4 +1,4 @@
-package com.example.themoviedatabase.data.repository.movierating
+package com.example.themoviedatabase.data.repository.movie
 
 import com.example.themoviedatabase.BuildConfig
 import com.example.themoviedatabase.data.remote.MovieDbClient

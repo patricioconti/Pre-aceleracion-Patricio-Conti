@@ -8,8 +8,8 @@ import androidx.paging.PagingConfig
 import androidx.paging.PagingData
 import androidx.paging.cachedIn
 import com.example.themoviedatabase.data.remote.results.MovieDb
-import com.example.themoviedatabase.data.repository.movierating.MoviePagingSource
-import com.example.themoviedatabase.data.repository.movierating.MovieRepository
+import com.example.themoviedatabase.data.repository.movie.MoviePagingSource
+import com.example.themoviedatabase.data.repository.movie.MovieRepository
 import kotlinx.coroutines.flow.Flow
 
 private const val ITEMS_PER_PAGE = 20

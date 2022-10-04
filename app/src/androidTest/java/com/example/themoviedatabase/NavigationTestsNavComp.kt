@@ -18,7 +18,7 @@ import org.junit.Test
 import org.junit.runner.RunWith
 
 
-/*NavigationTest of Navigation Component using TestNavHostController
+/* NavigationTest of Navigation Component using TestNavHostController
  * and FragmentScenario
  */
 @RunWith(AndroidJUnit4::class)
